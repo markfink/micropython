@@ -1,0 +1,28 @@
+# Folders
+research/
+build/
+dist/
+bak/
+.DS_Store/
+*.egg-info/
+venv/
+venv3/
+
+# File wildcards
+.~lock.*
+*.avi
+*.pdf
+*.*~
+*.doc
+*.pyc
+part*.html
+*.mp4
+*.bak
+*.egg
+distribute*.gz
+*.iml
+*.secrets
+
+# Single Files
+.coverage
+config_hot.py
