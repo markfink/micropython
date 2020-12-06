@@ -60,7 +60,7 @@ $ pip install adafruit-ampy
 
 Careful the pin numbers used in micropython might differ to what you are used to. Please check in advance:
 
-https://micropython-on-wemos-d1-mini.readthedocs.io/en/latest/basics.html
+[pinout](https://micropython-on-wemos-d1-mini.readthedocs.io/en/latest/basics.html)
 
 
 # Sample "main.py"
